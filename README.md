@@ -43,8 +43,6 @@ jupyter notebook <nomedoNotebook>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/iasminsantosx"><img src="https://avatars.githubusercontent.com/iasminsantosx" width="50px;" alt=""/><br /><sub><b>Iasmin</b></sub></a><br /></td> 
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/rayannebarros"><img src="https://avatars.githubusercontent.com/rayannebarros" width="50px;" alt=""/><br /><sub><b>Rayanne</b></sub></a><br /></td> 
+     <td align="center"><a href="https://github.com/rayannebarros"><img src="https://avatars.githubusercontent.com/rayannebarros" width="50px;" alt=""/><br /><sub><b>Rayanne</b></sub></a><br /></td> 
   </tr>
 </table>
